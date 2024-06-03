@@ -1,0 +1,5 @@
+this is my todo list
+>>version control system
+>>git and github installation
+>>basic git commands and workflow
+>>working with remote respositories
