@@ -4,3 +4,4 @@ this is my todo list
 >>basic git commands and workflow
 >>working with remote respositories
 >> practicing the changes
+>>2nd time practice
