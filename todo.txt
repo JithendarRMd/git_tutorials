@@ -3,3 +3,4 @@ this is my todo list
 >>git and github installation
 >>basic git commands and workflow
 >>working with remote respositories
+>> practicing the changes
