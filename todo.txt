@@ -6,5 +6,4 @@ this is my todo list
 >> practicing the changes
 >>2nd time practice
 >>new branch (working copy created)
->>hello world 
->>waiting for the time
+>>hello world this is enough
